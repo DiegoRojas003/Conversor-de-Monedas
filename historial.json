@@ -1,0 +1,163 @@
+[
+  {
+    "fecha": "2024-05-02",
+    "hora": "18:47:30.760140400",
+    "divisaBase": "USD",
+    "divisaObjetivo": "COP",
+    "divisaFinal": 1.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "18:47:41.293020800",
+    "divisaBase": "COP",
+    "divisaObjetivo": "USD",
+    "divisaFinal": 1500000.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "18:47:55.256525200",
+    "divisaBase": "USD",
+    "divisaObjetivo": "ARS",
+    "divisaFinal": 500.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "18:48:04.543371600",
+    "divisaBase": "USD",
+    "divisaObjetivo": "ARS",
+    "divisaFinal": 7.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "18:49:16.437443800",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "18:57:20.406158",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:19:03.443313600",
+    "divisaBase": "USD",
+    "divisaObjetivo": "COP",
+    "divisaFinal": 0.1
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:19:10.851562500",
+    "divisaBase": "USD",
+    "divisaObjetivo": "COP",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:19:21.206515400",
+    "divisaBase": "USD",
+    "divisaObjetivo": "COP",
+    "divisaFinal": 99999.05
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:19:39.223818800",
+    "divisaBase": "USD",
+    "divisaObjetivo": "BRL",
+    "divisaFinal": 1.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:20:01.544606300",
+    "divisaBase": "COP",
+    "divisaObjetivo": "USD",
+    "divisaFinal": 0.5
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:20:14.773254800",
+    "divisaBase": "COP",
+    "divisaObjetivo": "USD",
+    "divisaFinal": 0.5555
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:20:24.069504200",
+    "divisaBase": "COP",
+    "divisaObjetivo": "USD",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:21:18.241520100",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:24:55.149205200",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:25:01.436912800",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:25:42.911352200",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:25:48.619510100",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:27:46.214498800",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:27:58.306466100",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:29:29.749153300",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:31:00.840815",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  },
+  {
+    "fecha": "2024-05-02",
+    "hora": "19:31:41.492243500",
+    "divisaBase": "d",
+    "divisaObjetivo": "d",
+    "divisaFinal": 0.0
+  }
+]
